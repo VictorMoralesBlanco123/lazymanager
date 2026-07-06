@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "io.github.victormoralesblanco123.lazymanager"
+    namespace = "com.example.lazymanagerv21"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -17,7 +17,7 @@ android {
         versionCode = 1
         versionName = "1.0"
 
-        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunn1er"
     }
 
     buildTypes {
